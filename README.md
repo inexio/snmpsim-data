@@ -1,8 +1,8 @@
 
 SNMP simulation data
 --------------------
-[![PyPI](https://img.shields.io/pypi/v/snmpsim-data.svg?maxAge=2592000)](https://pypi.org/project/snmpsim-data/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/snmpsim-data.svg)](https://pypi.org/project/snmpsim-data/)
+[![PyPI](https://img.shields.io/pypi/v/snmpsim-data.svg?maxAge=2592000)](https://pypi.org/project/thola-snmpsim-data/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/snmpsim-data.svg)](https://pypi.org/project/thola-snmpsim-data/)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/inexio/snmpsim-data/master/LICENSE.txt)
 
 The `snmpsim-data` package contains simulation data for
@@ -19,7 +19,7 @@ Download
 --------
 
 SNMP simulation data can be downloaded as a Python package from
-[PyPI](https://pypi.org/project/snmpsim-data/).
+[PyPI](https://pypi.org/project/thola-snmpsim-data/).
 
 Installation
 ------------
