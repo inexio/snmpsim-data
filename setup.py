@@ -73,7 +73,7 @@ except ImportError:
 doclines = [x.strip() for x in (__doc__ or '').split('\n') if x]
 
 params.update(
-    {'name': 'snmpsim-data',
+    {'name': 'thola-snmpsim-data',
      'version': open(os.path.join('snmpsim_data', '__init__.py')).read().split('\'')[1],
      'description': doclines[0],
      'long_description': ' '.join(doclines[1:]),
