@@ -3,13 +3,12 @@ SNMP simulation data
 --------------------
 [![PyPI](https://img.shields.io/pypi/v/snmpsim-data.svg?maxAge=2592000)](https://pypi.org/project/snmpsim-data/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/snmpsim-data.svg)](https://pypi.org/project/snmpsim-data/)
-[![Build status](https://travis-ci.org/etingof/snmpsim-data.svg?branch=master)](https://travis-ci.org/etingof/snmpsim-data)
-[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/etingof/snmpsim-data/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/inexio/snmpsim-data/master/LICENSE.txt)
 
 The `snmpsim-data` package contains simulation data for
-[snmpsim](http://snmplabs.com/snmpsim) - free and open-source SNMP agent simulator.
+[snmpsim](http://snmplabs.thola.io/snmpsim) - free and open-source SNMP agent simulator.
 The package is distributed under 2-clause
-[BSD license](http://snmplabs.com/snmpsim/license.html).
+[BSD license](http://snmplabs.thola.io/snmpsim/license.html).
 
 Why this fork?
 --------------
@@ -60,13 +59,13 @@ Documentation
 -------------
 
 Detailed information on SNMP simulator usage could be found at
-[snmpsim site](http://snmplabs.com/snmpsim/).
+[snmpsim site](http://snmplabs.thola.io/snmpsim/).
 
 Getting help
 ------------
 
 If you run into bad simulation data, feel free to
-[open an issue](https://github.com/etingof/snmpsim-data/issues) on GitHub.
+[open an issue](https://github.com/inexio/snmpsim-data/issues) on GitHub.
 
 Contributions
 -------------
